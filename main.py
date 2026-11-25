@@ -5,7 +5,7 @@ from email.message import EmailMessage
 # --- CONFIGURATION ---
 SENDER_NAME = "Todd Ambridge (Computer Science)"
 SENDER_EMAIL = "t.waughambridge@gmail.com"
-APP_PASSWORD = "ifph latz lezy kggw"  # 16-char Gmail App Password
+APP_PASSWORD = "[PASSWORD]"  # 16-char Gmail App Password
 EMAIL_LIST_FILE = "emails.txt"
 
 SUBJECT = "Update on upcoming assignment deadlines"
